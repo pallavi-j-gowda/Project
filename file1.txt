@@ -1,1 +1,2 @@
-file1 information
+file1 information.
+file2 is added
